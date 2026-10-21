@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外周测试矩阵"
+  short_description: "规划每周钩子与卖点测试"
+  default_prompt: "Use $lingwai-weekly-test-matrix to规划本周零外内容测试矩阵。"

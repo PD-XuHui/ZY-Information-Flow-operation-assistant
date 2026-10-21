@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外产品事实"
+  short_description: "整理产品资料与合规边界"
+  default_prompt: "Use $lingwai-product-facts to整理零外产品资料并标出可说和不可说内容。"

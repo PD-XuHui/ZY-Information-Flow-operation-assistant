@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外信息流配音"
+  short_description: "写快切带货信息流配音文案"
+  default_prompt: "Use $lingwai-infoflow-voiceover to写本周零外信息流配音文案。"

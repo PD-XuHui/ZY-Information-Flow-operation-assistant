@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外分镜与补拍"
+  short_description: "从文案拆分镜并汇总镜头缺口"
+  default_prompt: "Use $lingwai-storyboard-shotlist to把已确认文案拆成分镜和补拍单。"

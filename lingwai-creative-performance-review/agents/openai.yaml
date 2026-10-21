@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外素材投放复盘"
+  short_description: "复盘数据并优化下周测试"
+  default_prompt: "Use $lingwai-creative-performance-review to复盘零外素材数据并输出下周优化方向。"

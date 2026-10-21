@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外周生产质检"
+  short_description: "管理本周生产、交付和质检"
+  default_prompt: "Use $lingwai-weekly-production-qc to检查零外本周视频生产与交付。"

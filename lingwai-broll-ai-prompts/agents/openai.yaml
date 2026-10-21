@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外B-roll与AI提示词"
+  short_description: "为成分信息匹配插入画面"
+  default_prompt: "Use $lingwai-broll-ai-prompts to生成零外成分B-roll与AI视频提示词。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外个人号口播"
+  short_description: "写男性测评视角真人口播"
+  default_prompt: "Use $lingwai-personal-account-oral to写零外个人号真人口播。"

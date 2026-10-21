@@ -1,0 +1,4 @@
+interface:
+  display_name: "零外素材库"
+  short_description: "整理产品素材并供剪辑调用"
+  default_prompt: "Use $lingwai-asset-library to整理本周零外视频素材。"
